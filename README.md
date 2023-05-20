@@ -46,7 +46,7 @@
 - ### lab 7
   - Register4bits.vhdl
   - counter1to10.vhdl
-  - decoder2to4.vhdl
+  - count_tb.vhdl
 ---
 - ### lab 8
   - traffic_light_system_moore.vhdl
