@@ -49,5 +49,4 @@
   - traffic_light_system_moore.vhdl
   - traffic_light_system_moore_tb.vhdl
   - traffic_light_system_moore_tb.vcd
-  - work-obj93.cf
 ---
