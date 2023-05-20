@@ -38,7 +38,7 @@
 - ### lab 6
   - Dff.vhdl
   - Tff.vhdl
-  - work-obj93.cf
+  - JKff.vhdl
 ---
 - ### lab 7
   - Register4bits.vhdl
