@@ -1,0 +1,51 @@
+$date
+  Sat May 20 16:03:33 2023
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 2 ! i0[1:0] $end
+$var reg 2 " i1[1:0] $end
+$var reg 2 # i2[1:0] $end
+$var reg 2 $ i3[1:0] $end
+$var reg 2 % s[1:0] $end
+$var reg 2 & k[1:0] $end
+$scope module mux $end
+$var reg 2 ' a0[1:0] $end
+$var reg 2 ( a1[1:0] $end
+$var reg 2 ) a2[1:0] $end
+$var reg 2 * a3[1:0] $end
+$var reg 2 + d[1:0] $end
+$var reg 2 , o[1:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+b01 !
+b10 "
+b11 #
+b10 $
+b00 %
+b01 &
+b01 '
+b10 (
+b11 )
+b10 *
+b00 +
+b01 ,
+#10000000
+b01 %
+b10 &
+b01 +
+b10 ,
+#20000000
+b11 %
+b11 +
+#30000000
+b10 %
+b11 &
+b10 +
+b11 ,
+#40000000
