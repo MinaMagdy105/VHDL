@@ -37,8 +37,11 @@
 ---
 - ### lab 6
   - Dff.vhdl
+  - Dff_tb.vhdl
   - Tff.vhdl
+  - Tff_tb.vhdl
   - JKff.vhdl
+  - JKff_tb.vhdl
 ---
 - ### lab 7
   - Register4bits.vhdl
