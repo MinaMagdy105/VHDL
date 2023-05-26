@@ -1,4 +1,16 @@
 # VHDL
+---
+- ### CPU-VHDL
+  - C_ALU.vhdl
+  - C_Comp.vhdl
+  - C_Control.vhdl
+  - C_Reg.vhdl
+  - C_RegArray.vhdl
+  - C_Shift.vhdl
+  - C_Tri_Reg.vhdl
+  - CPU.vhdl
+  - cpulib.vhdl
+---
 - ### lab 1
   - compo.vhdl
   - compo_tb.vhdl
