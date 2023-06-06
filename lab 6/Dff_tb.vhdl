@@ -13,7 +13,7 @@ port(
 end component;
 signal D,C,y,ybar:std_logic;
     begin
-        Dff1:Dff port map(D=>D,C=>C,y=>y,ybar=>ybar);
+        Dff1: Dff port map(D=>D,C=>C,y=>y,ybar=>ybar);
         process begin
 
             D<='X';
